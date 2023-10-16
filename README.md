@@ -1,7 +1,7 @@
 <h1>Olá, me chamo Karoliny! &#128075; &#128522; </h1>
 <p>
    &#128421; Desenvolvedora em desenvolvimento. <br>
-  &#128522; Tenho 22 anos, estudo Análise e Desenvolvimento de Sistemas e javascript.
+  &#128522; Tenho 22 anos, estudo Análise e Desenvolvimento de Sistemas e desenvolvimento frontend pela udemy.
 </p>
 <br> <hr>
 <h3 align="center">Tecnologias estudadas:</h3>
