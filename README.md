@@ -1,14 +1,21 @@
-<h1>Olá, me chamo Karoliny! &#128075; &#128522; </h1>
-<p>
-   &#128421; Desenvolvedora em desenvolvimento. <br>
-  &#128522; Tenho 22 anos, estudo Análise e Desenvolvimento de Sistemas e desenvolvimento frontend pela udemy.
-</p>
-<br> <hr>
+## Olá, me chamo Karoliny! 👋
+
+<div>
+   <img align="right"  height="250px" 
+      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dvYXJsOTJtMGVxZjB3cnVvYWh0bDN5bDd6ZHJ1d3ZldnV4aTdudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" /> 
+</div>
+
+Sou uma estudante de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Paralelamente, estou estudando UX Designer na DIO para ter uma pequena noção de design nos meus projetos e estou ampliando meus conhecimentos por meio de cursos de Desenvolvimento Web na Udemy, onde tenho explorado JavaScript, NodeJS, AngularJS e outras tecnologias.
+
+Estou constantemente envolvida em projetos pessoais para aprimorar minhas habilidades, você pode verificar alguns desses projetos aqui no meu github.
+
+<br> <br> <br> <br> <hr>
 <h3 align="center">Tecnologias estudadas:</h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Karoliny-Js" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Karoliny-Ts" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Karoliny-Ts" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Karoliny-Rc" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="center" alt="Karoliny-Ag" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Karoliny-Node" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />   
 </div>
 <br> <hr>
