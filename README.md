@@ -5,7 +5,8 @@
       src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dvYXJsOTJtMGVxZjB3cnVvYWh0bDN5bDd6ZHJ1d3ZldnV4aTdudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" /> 
 </div>
 
-Sou uma estudante de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Paralelamente, estou estudando UX Designer na DIO para ter uma pequena noção de design nos meus projetos e estou ampliando meus conhecimentos por meio de cursos de Desenvolvimento Web na Udemy, onde tenho explorado JavaScript, NodeJS, AngularJS e outras tecnologias.
+Sou uma estudante de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. 
+Paralelamente, estou estudando UX Designer na DIO para ter uma pequena noção de design nos meus projetos e estou ampliando meus conhecimentos por meio de cursos de Desenvolvimento Web na Udemy, onde tenho explorado linguagens, frameworks e demais tecnologias.
 
 Estou constantemente envolvida em projetos pessoais para aprimorar minhas habilidades, você pode verificar alguns desses projetos aqui no meu github.
 
