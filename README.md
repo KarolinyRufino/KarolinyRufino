@@ -1,11 +1,11 @@
 ## Olá, me chamo Karoliny! 👋
 
 <div>
-   <img align="right"  height="250px" 
-      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dvYXJsOTJtMGVxZjB3cnVvYWh0bDN5bDd6ZHJ1d3ZldnV4aTdudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" /> 
+   <img align="right"  height="250px"     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dvYXJsOTJtMGVxZjB3cnVvYWh0bDN5bDd6ZHJ1d3ZldnV4aTdudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" /> 
 </div>
 
 Sou uma estudante de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. 
+
 Paralelamente, estou estudando UX Designer na DIO para ter uma pequena noção de design nos meus projetos e estou ampliando meus conhecimentos por meio de cursos de Desenvolvimento Web na Udemy, onde tenho explorado linguagens, frameworks e demais tecnologias.
 
 Estou constantemente envolvida em projetos pessoais para aprimorar minhas habilidades, você pode verificar alguns desses projetos aqui no meu github.
@@ -19,6 +19,7 @@ Estou constantemente envolvida em projetos pessoais para aprimorar minhas habili
   <img align="center" alt="Karoliny-Ag" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Karoliny-Node" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />   
 </div>
+
 <br> <hr>
 <h3 align="center">Conecte-se comigo!</h3>
 <div align="center">
