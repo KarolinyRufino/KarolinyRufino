@@ -13,9 +13,10 @@ Estou constantemente envolvida em projetos pessoais para aprimorar minhas habili
 <br> <br> <br> <br> <hr>
 <h3 align="center">Tecnologias estudadas:</h3>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Karoliny-Js" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Karoliny-Rc" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="Karoliny-Node" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />   
+  <img align="center" alt="JavaScript" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="center" alt="Node" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img align="center" alt="Bootstrap" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />      
 </div>
 
 <br> <hr>
