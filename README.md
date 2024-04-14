@@ -14,9 +14,7 @@ Estou constantemente envolvida em projetos pessoais para aprimorar minhas habili
 <h3 align="center">Tecnologias estudadas:</h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Karoliny-Js" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Karoliny-Ts" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Karoliny-Rc" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="Karoliny-Ag" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img align="center" alt="Karoliny-Node" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />   
 </div>
 
