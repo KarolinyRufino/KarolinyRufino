@@ -6,7 +6,7 @@
 
 Sou uma estudante de tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. 
 
-Paralelamente, estou estudando UX Designer na DIO para ter uma pequena noção de design nos meus projetos e estou ampliando meus conhecimentos por meio de cursos de Desenvolvimento Web na Udemy, onde tenho explorado linguagens, frameworks e demais tecnologias.
+Paralelamente, estou ampliando meus conhecimentos por meio de cursos de Desenvolvimento na Udemy, onde tenho explorado linguagens, frameworks e demais tecnologias.
 
 Estou constantemente envolvida em projetos pessoais para aprimorar minhas habilidades, você pode verificar alguns desses projetos aqui no meu github.
 
@@ -16,7 +16,7 @@ Estou constantemente envolvida em projetos pessoais para aprimorar minhas habili
   <img align="center" alt="JavaScript" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="React" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img align="center" alt="Node" height="60px" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img align="center" alt="Bootstrap" height="50px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />      
+  <img align="center" alt="Python" height="50px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />      
 </div>
 
 <br> <hr>
